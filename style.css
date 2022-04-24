@@ -1,0 +1,31 @@
+.heading {
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+}
+body {
+    background-size: cover;
+}
+#speed {
+    float:left;
+}
+.speedimg {
+    width: 200px;
+    border-radius: 100px;
+}
+#speed_id, #volume_id {
+    font-size: 23px;
+    margin:15px;
+}
+#volume {
+float:right;
+}
+.playy {
+    width:130px;
+    font-size: 25px;
+}
+canvas {
+    border:3px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+}
